@@ -1,16 +1,9 @@
 
-Pilot: [[Domenic]]
-Callsign: Jackal
-Status: Active
+Pilot: [[Domenic]]<br>Callsign: Jackal<br>Status: Active
 
-Date of Birth: 03/15/49■■
-Birthplace: Catacala-5 Station
-Height: 6'0"
-Pronouns: He/him
+Date of Birth: 03/15/49■■<br>Birthplace: Catacala-5 Station<br>Height: 6'0"<br>Pronouns: He/him
 
-Assignment: [[index#Squad Lycaon|Squad Lycaon]]
-LC: [[Domenic#Retrovertigo|Retrovertigo]]
-Role: Direct combat and fire support.
+Assignment: [[index#Squad Lycaon|Squad Lycaon]]<br>LC: [[Domenic#Retrovertigo|Retrovertigo]]<br>Role: Direct combat and fire support.
 
 ---
 

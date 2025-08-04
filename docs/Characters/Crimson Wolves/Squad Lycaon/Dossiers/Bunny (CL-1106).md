@@ -1,16 +1,9 @@
 
-Pilot: Unknown
-Callsign: [[Bunny]]
-Status: Active
+Pilot: Unknown<br>Callsign: [[Bunny]]<br>Status: Active
 
-Date of Birth: 06/11/49■■
-Birthplace: Unknown
-Height: 5'0"
-Pronouns: She/her
+Date of Birth: 06/11/49■■<br>Birthplace: Unknown<br>Height: 5'0"<br>Pronouns: She/her
 
-Assignment: [[index#Squad Lycaon|Squad Lycaon]]
-LC: [[Bunny#Muzzled Angel|Muzzled Angel]]
-Role: Designated Marksman
+Assignment: [[index#Squad Lycaon|Squad Lycaon]]<br>LC: [[Bunny#Muzzled Angel|Muzzled Angel]]<br>Role: Designated Marksman
 
 ---
 

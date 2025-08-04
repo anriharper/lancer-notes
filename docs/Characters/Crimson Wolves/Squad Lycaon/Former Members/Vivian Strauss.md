@@ -1,16 +1,9 @@
 
-Pilot: Vivian Strauss
-Callsign: Starchild
-Status: Inactive
+Pilot: Vivian Strauss<br>Callsign: Starchild<br>Status: Inactive
 
-Date of Birth: 05/20/45■■
-Birthplace: Cradle
-Height: 6'3"
-Pronouns: She/her
+Date of Birth: 05/20/45■■<br>Birthplace: Cradle<br>Height: 6'3"<br>Pronouns: She/her
 
-Assignment: [[Index|Squad Lycaon (formerly)]] 
-LC: Event Horizon
-Role: Combination Artillery / CQB
+Assignment: [[index#Squad Lycaon|Squad Lycaon]] (formerly)<br>LC: Event Horizon<br>Role: Combination Artillery / CQB
 
 ---
 

@@ -1,7 +1,5 @@
 
-Pilot:
-Callsign: Gecko
-Status: Inactive
+Pilot:<br>Callsign: Gecko<br>Status: Inactive
 
-Assignment: [[Index|Squad Lycaon (formerly)]]
+Assignment: [[index#Squad Lycaon|Squad Lycaon]] (formerly)
 

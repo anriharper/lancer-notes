@@ -1,7 +1,8 @@
 
 Pilot: [[Bethany Sinclair]]<br>Callsign: Odette<br>Status: Active
 
-Date of Birth: 08/28/49■■<br>Birthplace: Io<br>Height: 5'7"<br>Pronouns: She/her<br>
+Date of Birth: 08/28/49■■<br>Birthplace: Io<br>Height: 5'7"<br>Pronouns: She/her
+
 Assignment: [[index#Squad Lycaon|Squad Lycaon]]<br>LC: [[Bethany Sinclair#White Swan|White Swan]]<br>Role: Close combat assault
 
 ---
