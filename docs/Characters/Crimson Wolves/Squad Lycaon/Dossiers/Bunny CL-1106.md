@@ -1,3 +1,4 @@
+.
 Pilot: Unknown
 Callsign: [[Bunny]]
 Status: Active
@@ -7,8 +8,8 @@ Birthplace: Unknown
 Height: 5'0"
 Pronouns: She/her
 
-Assignment: [[Index|Squad Lycaon]]
-LC: [[Muzzled Angel]]
+Assignment: [[index#Squad Lycaon|Squad Lycaon]]
+LC: [[Bunny#Muzzled Angel|Muzzled Angel]]
 Role: Designated Marksman
 
 ---

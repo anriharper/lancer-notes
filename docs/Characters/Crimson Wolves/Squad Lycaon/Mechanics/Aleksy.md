@@ -1,0 +1,3 @@
+An employee of the Smith-Shimano Corpro who worked on the construction of [[Bethany Sinclair#White Swan|White Swan]], contracted as the personal mechanic for [[Bethany Sinclair]]. 
+
+Aleksy has known [[Bethany Sinclair|Bethany]] for a long time, considering her a second daughter. He is a middle-aged, heavyset man, who seems very unassuming. But his history with the SSC and the Sinclair Foundation as a designer and R&D specialist speak to his aptitude as a mechanic.

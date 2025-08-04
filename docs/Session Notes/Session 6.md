@@ -14,7 +14,7 @@
 	- There are pings for Anathema, Humble Invention, and Brooding Wings, assigned to the lancer group Halcyon Crypt.
 	- Gil comes from the Reconciliation Project
 - The Crimson Wolves keep a compendium of mech frames and pilots. A bestiary essentially, containing information of enemies they could face, weaknesses.
-	- Bethany can see files, but does not have access to view some. Specfically, HORUS frames.
+	- Bethany can see files, but does not have access to view some. Specifically, HORUS frames.
 	- Bethany being brought up as an elite lancer her whole life, knows of HORUS, that you do not seek Horus, they find you.
 	- The Crimson Wolves files on Horus frames are restricted as trade secrets.
 	- But bio-organic integration with mechs seems to be very rare. There are a couple case studies of incorporating a bioweapon, but it is all synthetic and cosmetic as an intimidation technique.
@@ -25,8 +25,8 @@
 		- "....Fair point."
 	- Amaq questions what Bethany is looking for in the archives.
 	- How aware is Amaq of our last lancer contact?
-		- They have read the files. We fought militia. Nothing too out of the ordinary except for a lancer. They pause. "Purposeful biointegration into mech systems is pretty rare isn't it?" Only one case in the Crimson Wolves records apart from Anathema, who put flesh sheets on their cannon. 
-	- What are the odds a back alley lancer program could get three lancers up and running on biointegration.
+		- They have read the files. We fought militia. Nothing too out of the ordinary except for a lancer. They pause. "Purposeful bio-integration into mech systems is pretty rare isn't it?" Only one case in the Crimson Wolves records apart from Anathema, who put flesh sheets on their cannon. 
+	- What are the odds a back alley lancer program could get three lancers up and running on bio-integration.
 		- "Statistically, they would have to run through at least a hundred or so failures."
 	- Bethany believes they have to have left a footprint somewhere to get clues. Records of their activities, swaths of death, etc.
 	- Amaq suggests Bethany is maybe looking in the wrong place, but does not really know where the right place is. 
@@ -34,12 +34,12 @@
 	- Bethany asks where to go to become a lancer off the record?
 		- Is there a dark web?
 		- Amaq says there are plenty. But how would you get in the programs?
-			- Find yourself into a random chopshop in the middle of nowhere and get hacked into shape. Best outcome is being a functional lancer. After that, a quiet death.
+			- Find yourself into a random chop shop in the middle of nowhere and get hacked into shape. Best outcome is being a functional lancer. Barring that, hope for a quiet death.
 	- There are governments that may have their own in house programs that might not register in the Wolves databases.
 	- The people would need the resources to get help without having to ask for it.
 - Amaq appears to straddle between smug and aloof. An impressive combination of body language and expression.
 - Amaq is incredibly hard to read. Bethany gets the idea that she can't tell if Amaq is keeping something from her, but Amaq is more interesting in the process of how she figures things out. 
-- Interesting that the Crimson Wolves also hired a chopshop nobody lancer, like the three that Halcyon Crypt have.
+- Interesting that the Crimson Wolves also hired a chop shop nobody lancer, like the three that Halcyon Crypt have.
 	- Amaq cracks a smile.
 	- Amaq asks if they gave Bethany the name of their program
 - Bethany searches the database for the Reconciliation Project
@@ -201,17 +201,17 @@
 	- There are notes to try some warmup training if we can.
 	- Gil checks to see if the night is available, and request more kegs. 
 - Bunny wakes up to a clacking noise, typing coming from nearby. She feels warm and comfortable. She stirs, and sees blue light. She looks, and dead ahead there is a wall of an aquarium. There is a beautiful rainbow of fish in the tank, very well maintained. Bunny is laying on a couch, with a blanket thrown over her. 
-	- There is a desk, and underneath it, she sees a really nice pair of shows and tights. Seline is on her computer typing. 
-	- Bunny wonders what happened and how she got here. Koa messaged Seline from Bunny's tablet. Seline mentions there is a jelly drink and vitamins on the table nearby. She used to live on those between sorties, you know?
+	- There is a desk, and underneath it, she sees a really nice pair of shoes and tights. Seline is on her computer typing. 
+	- Bunny quickly tries to sit up, but her head hurts too much and she compromises by propping herself up on her elbow. She wonders what happened and how she got here. Koa messaged Seline from Bunny's datapad after she blacked out, and Seline instructed Koa to bring Bunny to her office to be watched over. Seline mentions there is a jelly drink and vitamins on the table nearby. She used to live on those between sorties, you know?
 	- No. "Oh...fair enough."
-	- She finishes what she is typing and stands up. She pulls a cloth out of her suit and says "Up." tilting Bunny's chin up and wiping the marker off her cheek. Bunny is stunned at the command and how unfazed she was following it without a second thought, her mouth agape as Seline wipes off her cheek.
-	- Seline smiles and tosses the cloth aside. She tells Bunny to get some rest and sleep more if she needs to. She's going to be working on her computer. 
+	- She finishes what she is typing and stands up. She pulls a cloth out of her suit and places a finger on Bunny's chin. Seline says "Up," and Bunny tilts her chin up as Seline begins wiping the marker off her cheek. Bunny is stunned at the command and how unfazed she was following it without a second thought, her mouth agape and staring into Seline's eyes as Seline wipes off her cheek.
+	- Seline smiles and tosses the cloth aside. She tells Bunny to get some rest and sleep more if needed. She's going to be working on her computer. 
 	- Bunny tries to quickly get her stuff together and rush off to training, before Seline mentions having cleared their schedule for the day. She advises Bunny not to drink too heavily next time. Bunny heads back to her room to get ready for her date.
 
 
 - The rest of the day is quiet for the most part. Bunny has her date. Gil parties and blacks out again. Koa and Citra show up, but it's a significantly smaller turnout this time.
 
-# The Next Day (after Session 5 ends)
+# New mechs
 
 ### Bethany
 - Bethany has a note on her schedule. New frame and mechanic meeting.
@@ -229,7 +229,8 @@
 - Aleksy always saw Bethany as a second daughter and considers it a privilege to work for her. 
 - Aleksy is employed through the SSC. He is a rather eccentric designer and R&D specialist, and was often contracted through Sinclair Biomed. 
 - Aleksy and Vita walk Bethany through the frame. The cockpit fits perfectly. It has Sinclair Biomed emblems. There is no lag with the systems. It is fit specifically for Odette.
-![[White Swan.png|400]]
+
+![[White Swan.png]]
 
 
 ### Bunny
@@ -242,7 +243,7 @@
 	- "It is very interesting to see this model used as a designated marksman platform. But the honors can't be mine." Shoichiro gestures towards the maintenance platform that houses the blanketed figure.
 - Coming down from the platform's elevator, is a person wearing all black with white stripes on their collar and sleeves. Short black hair with swept bangs covering one eye. Notch in the eyebrow. They look disinterested in all of this.
 
-![[Marissa Faulkner.png|400]]
+![[Marissa Faulkner.png]]
 
 	- They walk up. "Hey Shoi. What's this, is there like a button or something?"
 	- Shoichiro introduces Bunny to Marissa Faulkner. 
@@ -259,7 +260,7 @@
 - Faulkner recommends Bunny get in the cockpit for initial diagnostics. They ask if Bunny went to Makia Academy. Bunny pauses for a moment and quietly responds that she did. Faulkner says that the augment protocols were difficult to crack, but thinks they handled all of it correctly.
 - Koa excitedly wraps her arms around Bunny, getting more and more pumped to see Angel in action.
 
-![[Muzzled Angel.png|400]]
+![[Muzzled Angel.png]]
 
 
 ### Gil
@@ -276,7 +277,7 @@
 - The Heel Turn has been modified to grab whatever gets within range and pull it into oblivion.
 - After doing a little walk around, Brice tells Gil to piss off, they need to do diagnostics. "No not that way. Piss off into the mech!"
 
-![[Heel Turn.png|400]]
+![[Heel Turn.png]]
 
 ### Domenic
 - Dom is looking at frames. The screen flickers and turns red. Something loads. A frame pops up that did not appear in the catalog before. 
@@ -324,10 +325,12 @@
 - Dom agrees to begin diagnostics.
 	- As he steps into the metafold, there is a moment of numbness, weightlessness. Slowly, each sense comes back one by one. It is unlike any other cockpit. It is as if Dom is reaching out to the world around him as if he were in the surrounding air itself. It is a bit nauseating at first.
 
-![[Retrovertigo.png|400]]
+![[Retrovertigo.png]]
 
 
 ---
+
+### Discussing Information
 
 - Dom and Bethany get together to discuss their findings of the research they had been doing.
 - Dom digs into the squad files. Finds mostly the same information: caloric intake, training updates, etc.
@@ -393,6 +396,7 @@
 
 ---
 
+### Training Day
 We go through diagnostic, ranges, picking up training again. Watching through prior footage. The days go by quickly.
 
 

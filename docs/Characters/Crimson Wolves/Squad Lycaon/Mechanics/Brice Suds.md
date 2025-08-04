@@ -1,0 +1,3 @@
+An employee of Interplanetary Shipping Northstar who built [[Gil Gallant#Heel Turn|Heel Turn]].  Contracted as the personal mechanic to [[Gil Gallant]].
+
+Brice is a short, wide man who is not afraid to get dirty in his work. He is not afraid to speak his mind, and made that clear in his first reaction with [[Gil Gallant]], making criticizing comments towards her appearance and choice of words. While hot-headed, Suds seems to take their work seriously while still allowing himself to have fun with it. 

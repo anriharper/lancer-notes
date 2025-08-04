@@ -1,6 +1,6 @@
 Callsign: Anathema
 LC: Burning Miseries
-Affiliation: Unknown (Freelancer?)
+Affiliation: Halcyon Crypt (Freelancer?)
 Status: Deceased (Killed by [[Gil Gallant]])
 
 A hostile lancer that appeared on Cressidium during [[Operation Solstice Rain]]. Fought on the side of the [[Vestan Sovereignty]] to defend the hostage Union ambassador and captain of the Rio Grande ship. Fought against Squad Lycaon before being defeated. Her mech entered a meltdown and exploded, killing her.

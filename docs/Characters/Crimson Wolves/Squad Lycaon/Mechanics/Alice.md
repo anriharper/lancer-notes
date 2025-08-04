@@ -1,0 +1,3 @@
+An employee of HORUS, lead designer for [[Domenic#Retrovertigo|Retrovertigo]]. Contracted as the personal mechanic to [[Domenic]].
+
+Alice is an anomaly within the already anomalous HORUS collective. Within all of the dark and mysterious aesthetic associated with HORUS, Alice wears bright pink and has large, puffy pink pompom hair. She exudes happiness in everything she does, but do not mistake her for aloof. She is an expert of mech systems that very few people in the galaxy even know exist.

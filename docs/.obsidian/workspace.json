@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "1e229a04fece5bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "192ca4842c5029eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ce57585bff9948",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a967a6bda407107c",
+    "type": "split",
+    "children": [
+      {
+        "id": "030747ae4927438b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09234a6359ff4f35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c870b39091ad8571",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a2b5fada48e368fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c28eed7804d7dda9",
+    "type": "split",
+    "children": [
+      {
+        "id": "496097b784298fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6b56c062993445f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ab3a9b9fb3e202c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "391fd2e649d14587",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b209ac2aaaf00fbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "06ce57585bff9948",
+  "lastOpenFiles": [
+    "index.md",
+    "Session Notes/Session 6.md",
+    "Characters/Factions/Vestan Sovereignty.md",
+    "Characters/Factions/Leandric States Alliance.md",
+    "Characters/Factions/Halcyon Crypt.md",
+    "Characters/Crimson Wolves/Squad Lycaon/Dossiers/Odette CL-0828.md",
+    "Characters/Crimson Wolves/Squad Lycaon/Mechanics/Aleksy.md",
+    "Characters/Crimson Wolves/Squad Lycaon/Mechanics/Brice Suds.md",
+    "Characters/Crimson Wolves/Squad Lycaon/Mechanics/Marissa Faulkner.md",
+    "Characters/Enemies/Anathema.md",
+    "Characters/Factions/Crimson Wolves.md",
+    "Characters/Factions/Apex Ranking Group/Apex-10.md",
+    "Characters/Factions/Apex Ranking Group/Apex-09.md",
+    "Characters/Factions/Apex Ranking Group/Apex-08.md",
+    "Characters/Factions/Apex Ranking Group/Apex-07.md",
+    "Characters/Factions/Apex Ranking Group/Apex-06.md",
+    "Characters/Factions/Apex Ranking Group/Apex-05.md",
+    "Characters/Factions/Apex Ranking Group/Apex-04.md",
+    "Characters/Factions/Apex Ranking Group/Apex-03.md",
+    "Characters/Factions/Apex Ranking Group/Apex-02.md",
+    "Characters/Factions/Apex Ranking Group/Apex-01.md",
+    "Characters/Crimson Wolves/Seline Nguyen.md",
+    "Characters/Crimson Wolves/Koa Palmer.md",
+    "Characters/Crimson Wolves/Amaq.md",
+    "Characters/Crimson Wolves/Squad Lycaon/Gil Gallant.md",
+    "Characters/Crimson Wolves/Squad Lycaon/Domenic.md",
+    "Characters/Crimson Wolves/Squad Lycaon/Mechanics"
+  ]
+}
