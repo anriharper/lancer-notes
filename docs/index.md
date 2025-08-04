@@ -1,53 +1,47 @@
 # Table of Contents
 
-# Bun Book
+## Bun Book
 - [[01 - First Impressions]]
 - [[02 - Cressidium Deployment, Day 1]]
 - [[03 - Cressidium Deployment, Day 2]]
 - [[04 - Leaving Cressidium]]
 - [[05 - One Question Answered, Many More Formed]]
 
-# Characters
-## Crimson Wolves
+## Characters
 
+### Crimson Wolves
 - [[Amaq]]
 - [[Koa Palmer]]
 - [[Seline Nguyen]]
-### Squad Lycaon
-
+#### Squad Lycaon
 - [[Bethany Sinclair]]
 - [[Bunny]]
 - [[Domenic]]
 - [[Gil Gallant]]
-#### Dossiers
-
-- [[Achilles CL-2177]]
-- [[Bunny CL-1106]]
-- [[Jackal CL-1530]]
-- [[Odette CL-0828]]
-#### Former Members
-
+##### Dossiers
+- [[Achilles (CL-2177)]]
+- [[Bunny (CL-1106)]]
+- [[Jackal (CL-1530)]]
+- [[Odette (CL-0828)]]
+##### Former Members
 - [[Gecko]]
 - [[Vivian Strauss]]
 
-#### Mechanics
-
+##### Mechanics
 - [[Aleksy]]
 - [[Alice]]
 - [[Brice Suds]]
 - [[Marissa Faulkner]]
 
-## Enemies
-
+### Enemies
 - [[Anathema]]
 - [[Broderick Beauregard]]
-## Factions
 
+### Factions
 - [[Crimson Wolves]]
 - [[Leandric States Alliance]]
 - [[Vestan Sovereignty]]
-### Apex Ranking Group
-
+#### Apex Ranking Group
 - [[Apex-01]]
 - [[Apex-02]]
 - [[Apex-03]]
@@ -59,11 +53,10 @@
 - [[Apex-09]]
 - [[Apex-10]]
 
-# Operations 
-
+## Operations 
 - [[Operation Solstice Rain]]
 
-# Session Notes
+## Session Notes
 - [[Session 1]]
 - [[Session 2]]
 - [[Session 3]]
