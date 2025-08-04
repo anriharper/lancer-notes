@@ -1,5 +1,5 @@
-Callsign: Xenon Blue
-LC: Crown of Virtue's Casualty
+
+Callsign: Xenon Blue<br>LC: Crown of Virtue's Casualty
 
 "From the darkest reaches, a ray of hope shines."
 

@@ -1,5 +1,5 @@
-Callsign: HA-V Dulcimer
-LC: Helzen Fortress
+
+Callsign: HA-V Dulcimer<br>LC: Helzen Fortress
 
 "An armor battalion on four legs"
 

@@ -1,5 +1,5 @@
-Callsign: Red Mura
-LC: The Nails of Mahuika
+
+Callsign: Red Mura<br>LC: The Nails of Mahuika
 
 "Wrath of the Fire Goddess"
 

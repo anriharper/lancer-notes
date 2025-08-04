@@ -1,5 +1,5 @@
-Callsign: Coiled Viper
-LC: Vasuki's Fangs
+
+Callsign: Coiled Viper<br>LC: Vasuki's Fangs
 
 "Show a snake its tail, and it will eat itself for you."
 

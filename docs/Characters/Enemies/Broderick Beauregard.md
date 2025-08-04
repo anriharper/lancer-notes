@@ -1,5 +1,5 @@
-Affiliation: [[Vestan Sovereignty]]
-Status: Deceased (Killed by [[Bunny]])
+
+Affiliation: [[Vestan Sovereignty]]<br>Status: Deceased (Killed by [[Bunny]])
 
 A Sovereignty MC pilot who initially appeared in the squad that hunted [[Index|Squad Lycaon]] after their ship was shot down. Broderick first piloted a support MC designed to repair damaged units. His MC was disabled, and he was taken prisoner by [[Bunny]], eventually escaping in the chaos of a subsequent battle.
 

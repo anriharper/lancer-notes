@@ -1,5 +1,5 @@
-Callsign: Mipung Glaive
-LC: Qianlima Mk 2
+
+Callsign: Mipung Glaive<br>LC: Qianlima Mk 2
 
 "The blade polished by an untold age"
 

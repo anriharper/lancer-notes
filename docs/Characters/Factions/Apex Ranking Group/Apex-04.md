@@ -1,5 +1,5 @@
-Callsign: Hills Bleed in Amaranth
-LC: Seventh Solstice
+
+Callsign: Hills Bleed in Amaranth<br>LC: Seventh Solstice
 
 "Death from beyond the horizon"
 
