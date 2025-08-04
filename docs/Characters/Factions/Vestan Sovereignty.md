@@ -1,0 +1,1 @@
+Opposed Cressidium accepting Union support and started a conflict against the [[Leandric States Alliance]] by kidnapping a visiting Union ambassador, as well as the captain of the Crimson Wolves ship Rio Grande

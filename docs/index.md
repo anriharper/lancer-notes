@@ -1,11 +1,55 @@
-# Obsidian Notes
+- Attachments
+- Bun Book
+	- [[01 - First Impressions]]
+	- [[02 - Cressidium Deployment, Day 1]]
+	- [[03 - Cressidium Deployment, Day 2]]
+	- [[04 - Leaving Cressidium]]
+	- [[05 - One Question Answered, Many More Formed]]
 
-Publish your public notes with MkDocs
+- Characters
+	- Crimson Wolves
+		- Squad Lycaon
+			- Dossiers
+				- [[Achilles CL-2177]]
+				- [[Bunny CL-1106]]
+				- [[Jackal CL-1530]]
+				- [[Odette CL-0828]]
+			- Former Members
+				- [[Gecko]]
+				- [[Vivian Strauss]]
+			- [[Bethany Sinclair]]
+			- [[Bunny]]
+			- [[Domenic]]
+			- [[Gil Gallant]]
+		- [[Amaq]]
+		- [[Koa Palmer]]
+		- [[Seline Nguyen]]
+	- Enemies
+		- [[Anathema]]
+		- [[Broderick Beauregard]]
+	- Factions
+		- Apex Ranking Group
+			- [[Apex-01]]
+			- [[Apex-02]]
+			- [[Apex-03]]
+			- [[Apex-04]]
+			- [[Apex-05]]
+			- [[Apex-06]]
+			- [[Apex-07]]
+			- [[Apex-08]]
+			- [[Apex-09]]
+			- [[Apex-10]]
+		- [[Crimson Wolves]]
+		- [[Leandric States Alliance]]
+		- [[Vestan Sovereignty]]
 
-## Hello World!
+- Operations
+	- [[Operation Solstice Rain]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- Session Notes
+	- [[Session 1]]
+	- [[Session 2]]
+	- [[Session 3]]
+	- [[Session 4]]
+	- [[Session 5]]
+	- [[Session 6]]

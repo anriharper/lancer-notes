@@ -1,0 +1,11 @@
+- Bunny got first hit on our first fight. Shot AMR shot directly through an enemy mech before they even noticed we were there.
+- Cut a mech's treads off and threatened the pilot. Broderick Beauregard.
+	- Broderick gave Bunny a Sovereignty Bombardment beacon to call in artillery
+- Tried to assist some refugees who were trapped in a bus. 
+	- Escorted them through the city, but got ambushed by Sovereignty. Overwhelmed Squad Lycaon. Destroyed the bus of refugees.
+	- In the confusion, Broderick escaped from Gecko.
+	- We were ordered to retreat.
+- Eventually came across a trainyard, where a Typhoon mech was shooting down incoming dropships. The same one that shot our ship down. 
+	- Was a long, hard fight, but we won.
+- Licesne level increased
+- Bunny took the head of the Typhoon as a trophy.

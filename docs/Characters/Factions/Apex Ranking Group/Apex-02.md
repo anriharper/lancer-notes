@@ -1,0 +1,14 @@
+Callsign: Coiled Viper
+LC: Vasuki's Fangs
+
+"Show a snake its tail, and it will eat itself for you."
+
+---
+
+After a series of impressive CAM deployments for the Union DoJ/HR, Coiled Viper was selected for a leadership role in a black ops unit rumored to be attached to the Union Bureau of Intelligence. What little has been uncovered of their five year  tenure there only supports what is already known: Viper’s prowess in cybernetic warfare is unparalleled. However, they were discharged from service following the Vestra Rebellion of 5007u, where their unit was revealed to have embedded in an insurgent group, from which they were actively participating in counter-intelligence, espionage, and military system infiltration against House Graine. While the event caused widespread political tension, the Union maintains that Viper’s unit acted as individuals.
+
+After a brief stint in the House of Nebulae private military group, Viper went on to join the Sirrus Gladiator circuit: one of a number of arena-style wargame circuits in which pilots vie for glory, fame, and fortune. They are currently the reigning champion in no less than a dozen circuits, most notably the infamous Iron Crucible, where they have claimed the galactic title for the past four years. Viper streams many of their matches, and is known for their vibrant energy and grace under pressure. 
+
+Enemies that encounter Vasuki’s Fangs are drowned in malware and killware commands, some of which aim to turn their own weapons and systems on one another. Its powered digitigrade legs allow it to circumvent a significant amount of required lift, allowing a level of aerial agility almost unheard of for an LC when paired with the HL-34n Naga Flight System. The Fangs’ primary loadout includes a HIVE Tracking Rifle Platform, SSC-based High-Yield-Low-Profile plasma missile pods, and a small retinue of drones which deploy from the chassis during engagements. 
+
+However, the crowning jewel that sets Viper in their own echelon is the Hellmouth Avatar program, which generates a NHP encapsulated copy of Viper’s consciousness to inject into enemy systems, use various cascades and targeted hacks to disable them, and break into fragments which prevent system recovery. This has drawn no shortage of criticism from civil rights groups, who argue that Viper is creating fully sapient clones of themself to engage in warfare and ultimately take their own lives on completion of their assignments. Whatever the case, the Hellmouth Avatar is the most potent killware ever produced, and has been deemed legal in many of the circuits Viper competes in.

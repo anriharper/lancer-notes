@@ -1,0 +1,5 @@
+- Met at Gatarobi Station.
+- Met Amoq, then Seline Nguyen. 
+- Given some time to get accustomed to our new living quarters.
+- Deployed to Cressidium with little notice
+	- Luggage had not even arrived yet.
