@@ -245,9 +245,9 @@
 
 ![[Marissa Faulkner.png]]
 
-	- They walk up. "Hey Shoi. What's this, is there like a button or something?"
-	- Shoichiro introduces Bunny to Marissa Faulkner. 
-		- Marissa: "Faulkner is fine...So you're the one who's going to pilot my baby?"
+- They walk up. "Hey Shoi. What's this, is there like a button or something?"
+- Shoichiro introduces Bunny to Marissa Faulkner. 
+	- Marissa: "Faulkner is fine...So you're the one who's going to pilot my baby?"
 - They introduce Muzzled Angel: Monarch style.
 	- The tarp flies off. 
 	- Faulkner goes through the specs, going super nitty-gritty. How they designed the missile tracking arc. They begin to smile as they speak more.
