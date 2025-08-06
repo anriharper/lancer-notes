@@ -39,6 +39,7 @@
 
 ### Factions
 - [[Crimson Wolves]]
+- [[Halcyon Crypt]]
 - [[Leandric States Alliance]]
 - [[Vestan Sovereignty]]
 #### Apex Ranking Group

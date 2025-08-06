@@ -1,6 +1,5 @@
 
-Affiliation: [[Crimson Wolves]]
-Role: Unknown
+Affiliation: [[Crimson Wolves]]<br>Role: Unknown
 
 While their handler was held up in an unexpected meeting, Amaq approached the newly arrived Squad Lycaon and offered to help the fledgling lancer group find their way around Gatarobi Station.
 

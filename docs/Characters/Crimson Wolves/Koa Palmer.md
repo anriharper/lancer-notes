@@ -1,8 +1,7 @@
 
-Affiliation: [[Crimson Wolves]]
-Role: Lancer
+Affiliation: [[Crimson Wolves]]<br>Role: Lancer
 
-Placing number 3 in the APEX pilot ranking system, Koa Palmer leads Squad Kalak under the callsign Red Mura and piltos a bright red LC called Nails of Mahuika. Despite her brash and boisterous personality, Koa has made a name for herself as a brilliant tactician in the field. It is believed that even the most unorganized group of lancers would work in perfect concert with her leadership.
+Placing number 3 in the APEX pilot ranking system, Koa Palmer leads Squad Kalak under the callsign Red Mura and pilots a bright red LC called Nails of Mahuika. Despite her brash and boisterous personality, Koa has made a name for herself as a brilliant tactician in the field. It is believed that even the most unorganized group of lancers would work in perfect concert with her leadership.
 
 Since gaining attention as the sole surviving lancer at the Battle of Hem's Strait, Koa has gone on to lead well over 200 successful sorties. Her Nails of Mahuika has six tally marks on the left shoulder, each for a former top 10 APEX ranked pilot that she downed.
 

@@ -1,6 +1,5 @@
 
-Affiliation: [[Crimson Wolves]]
-Role: Handler of [[index#Squad Lycaon|Squad Lycaon]]
+Affiliation: [[Crimson Wolves]]<br>Role: Handler of [[index#Squad Lycaon|Squad Lycaon]]
 
 The handler of [[index#Squad Lycaon|Squad Lycaon]], Seline Nguyen managed MC squads long before landing the opportunity to develop the Crimson Wolves' newest lancer team.
 
