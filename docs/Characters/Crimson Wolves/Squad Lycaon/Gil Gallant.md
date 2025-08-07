@@ -1,3 +1,4 @@
+
 ![[Gil Gallant.png]]
 
 ---
