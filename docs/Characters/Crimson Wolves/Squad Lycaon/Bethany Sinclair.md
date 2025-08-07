@@ -1,3 +1,4 @@
+# Bethany Sinclair
 
 ![[Bethany Sinclair.png]]
 
