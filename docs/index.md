@@ -6,6 +6,7 @@
 - [[03 - Cressidium Deployment, Day 2]]
 - [[04 - Leaving Cressidium]]
 - [[05 - One Question Answered, Many More Formed]]
+- [[06 - Muzzled Angel 2.0]]
 
 ## Characters
 
